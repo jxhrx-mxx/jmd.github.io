@@ -22,7 +22,7 @@
     <td><b>Social Media Assets</b></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/400x250?text=Your+Ad+Banner+Here" width="100%"></td>
+    <td><img src="Explore-the-World.png" width="100%"></td>
     <td><img src="https://via.placeholder.com/400x250?text=Your+Social+Poster+Here" width="100%"></td>
   </tr>
   <tr>
