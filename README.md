@@ -32,7 +32,7 @@
   <tr>
     <td>
       <video width="100%" autoplay loop muted playsinline>
-        <source src="https://github.com/user-attachments/assets/05cd5d27-9d34-4596-ae08-5f220793b445" type="video/mp4">
+        <source src="https://github.com/user-attachments/assets/fb731110-c926-4419-89c2-4db8ff54b11e" type="video/mp4">
             Your browser does not support the video tag.
       </video>
     </td>
