@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><img src="world.png" alt="Summer Sale Ad Banner" width="100%"></td>
-    <td><img src="poster" alt="Product Promotional Poster" width="100%"></td>
+    <td><img src="poster.png" alt="Product Promotional Poster" width="100%"></td>
   </tr>
   <tr>
     <td><b>Video Promotions</b></td>
