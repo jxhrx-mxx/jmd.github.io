@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><img src="world.png" alt="Summer Sale Ad Banner" width="100%"></td>
-    <td><img src="https://via.placeholder.com/400x250?text=Your+Social+Poster+Here" width="100%"></td>
+    <td><img src="poster" alt="Product Promotional Poster" width="100%"></td>
   </tr>
   <tr>
     <td><b>Video Promotions</b></td>
