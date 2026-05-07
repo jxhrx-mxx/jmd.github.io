@@ -30,7 +30,12 @@
     <td><b>Infographics & Tarps</b></td>
   </tr>
   <tr>
-    <td><video width="100%" src="https://github.com/user-attachments/assets/05cd5d27-9d34-4596-ae08-5f220793b445" type="video/mp4" autoplay loop muted playsinline></video></td>
+    <td>
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="https://github.com/user-attachments/assets/05cd5d27-9d34-4596-ae08-5f220793b445" type="video/mp4">
+            Your browser does not support the video tag.
+      </video>
+    </td>
     <td><img src="https://via.placeholder.com/400x250?text=Infographic+Design" width="100%"></td>
   </tr>
 </table>
