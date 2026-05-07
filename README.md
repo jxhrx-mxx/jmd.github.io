@@ -31,8 +31,7 @@
   </tr>
   <tr>
     <td>
-      <video width="100%" autoplay loop muted playsinline>
-        <source src="https://github.com/user-attachments/assets/fb731110-c926-4419-89c2-4db8ff54b11e" type="video/mp4">
+      <video width="100%" autoplay loop muted src="https://github.com/user-attachments/assets/fb731110-c926-4419-89c2-4db8ff54b11e" type="video/mp4">
             Your browser does not support the video tag.
       </video>
     </td>
