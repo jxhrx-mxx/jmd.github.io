@@ -30,7 +30,7 @@
     <td><b>Infographics & Tarps</b></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/400x250?text=CapCut+Video+Preview" width="100%"></td>
+    <td><img src="banner1.mp4" width="100%"></td>
     <td><img src="https://via.placeholder.com/400x250?text=Infographic+Design" width="100%"></td>
   </tr>
 </table>
