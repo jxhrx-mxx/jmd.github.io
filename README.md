@@ -30,7 +30,7 @@
     <td><b>Infographics & Tarps</b></td>
   </tr>
   <tr>
-    <td><img src="banner1.mp4" width="100%"></td>
+    <td><iframe width="100%" src="banner1.mp4" frameborder="0" ></iframe></td>
     <td><img src="https://via.placeholder.com/400x250?text=Infographic+Design" width="100%"></td>
   </tr>
 </table>
