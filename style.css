@@ -62,4 +62,36 @@ nav a { color: var(--text); text-decoration: none; font-weight: 500; }
 
 .card img { width: 100%; border-radius: 5px; }
 
+.about-section {
+    padding: 80px 10%;
+    background-color: #f9f9f9; /* Or match your theme color */
+    text-align: center;
+}
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.about-text p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.skills span {
+    display: inline-block;
+    background: #007bff; /* Use your "highlight" color here */
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    font-size: 0.9rem;
+}
+
 footer { text-align: center; padding: 40px; font-size: 0.8rem; opacity: 0.6; }
