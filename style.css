@@ -3,6 +3,7 @@
     --text: #f8fafc;
     --accent: #38bdf8;
     --card-bg: #1e293b;
+    --about-bg: #492201;
 }
 
 body {
@@ -62,9 +63,10 @@ nav a { color: var(--text); text-decoration: none; font-weight: 500; }
 
 .card img { width: 100%; border-radius: 5px; }
 
+/* about section */
 .about-section {
     padding: 80px 10%;
-    background-color: #492201; /* Or match your theme color */
+    background-color: var(--about-bg); /* Or match your theme color */
     text-align: center;
 }
 
