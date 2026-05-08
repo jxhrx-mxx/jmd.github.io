@@ -31,7 +31,8 @@
   </tr>
   <tr>
     <td><img src="banner.gif" width="100%" alt="Video Promotion/Motion Graphics"></td>
-    <td><img src="https://github.com/user-attachments/assets/4b54535c-5b69-44d0-8595-5cffa421b72a" alt="Tarp layout" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/4b54535c-5b69-44d0-8595-5cffa421b72a" alt="Tarp layout" width="50%"> <img src="https://github.com/user-attachments/files/27503936/Design1_Brochure.pdf" alt="Menu Brochure" width="50%">
+ </td>
   </tr>
 
 </table>
