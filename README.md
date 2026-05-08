@@ -16,7 +16,7 @@
 ### 🖼️ Featured Work
 *Click on the images to view full projects!*
 <style>
-  #tarp {
+  tr .tarp img {
     display: inline-block;
   }
 </style>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td><img src="banner.gif" width="100%" alt="Video Promotion/Motion Graphics"></td>
-    <td id="tarp">
+    <td class="tarp">
       <img src="https://github.com/user-attachments/assets/4b54535c-5b69-44d0-8595-5cffa421b72a" alt="Tarp layout" width="50%"> 
       <img width="50%" alt="Tarp layout" src="https://github.com/user-attachments/assets/b4e74469-c6ee-4f37-874a-f299867a8c60" />
     </td>
