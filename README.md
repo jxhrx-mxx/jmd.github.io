@@ -31,8 +31,9 @@
   </tr>
   <tr>
     <td><img src="banner.gif" width="100%" alt="Video Promotion/Motion Graphics"></td>
-    <td><img src="tarp.png" alt="Tarp layout" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/4b54535c-5b69-44d0-8595-5cffa421b72a" alt="Tarp layout" width="100%"></td>
   </tr>
+
 </table>
 
 ---
